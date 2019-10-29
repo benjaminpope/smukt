@@ -1,5 +1,5 @@
 # smukt
-Smear Utilizing Kepler &amp; TESS
+**Sm**ear **U**tilizing **K**epler &amp; **T**ESS
 
 
 ------------
