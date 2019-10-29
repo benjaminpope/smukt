@@ -4,12 +4,12 @@ Smear Utilizing Kepler &amp; TESS
 
 ------------
 
-   **Etymology**
+   **Etymology**:
    **Danish**. From Middle Low German smuk (“lithe, neat”). Compare English smug and German schmuck (“pretty”).
 
 
    **Pronunciation**
-   IPA: /smok/ [smɔɡ̊]
+   /smok/ [smɔɡ̊]
 
    **Adjective**
    - *beautiful, handsome, good-looking*
