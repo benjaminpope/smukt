@@ -2,6 +2,8 @@
 Smear Utilizing Kepler &amp; TESS
 
 
+------------
+
 + **Danish**
 
    **Etymology**
@@ -12,3 +14,5 @@ Smear Utilizing Kepler &amp; TESS
 
    **Adjective**
        - *beautiful, handsome, good-looking*
+
+------------
