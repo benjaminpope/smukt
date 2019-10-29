@@ -4,15 +4,14 @@ Smear Utilizing Kepler &amp; TESS
 
 ------------
 
-+ **Danish**
-
    **Etymology**
-       - From {{der|da|gml|smuk||lithe, neat}}. Compare {{cog|en|smug}} and {{cog|de|schmuck||pretty}}.
+   **Danish**. From Middle Low German smuk (“lithe, neat”). Compare English smug and German schmuck (“pretty”).
+
 
    **Pronunciation**
    IPA: /smok/ [smɔɡ̊]
 
    **Adjective**
-       - *beautiful, handsome, good-looking*
+   - *beautiful, handsome, good-looking*
 
 ------------
