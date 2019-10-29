@@ -4,7 +4,7 @@
 
 ------------
 
-   **Etymology**:
+   [**Etymology**](https://en.wiktionary.org/wiki/smuk):
    **Danish**. From Middle Low German smuk (“lithe, neat”). Compare English smug and German schmuck (“pretty”).
 
 
@@ -15,3 +15,5 @@
    - *beautiful, handsome, good-looking*
 
 ------------
+
+Can 
